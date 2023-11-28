@@ -3,4 +3,4 @@ def print_info():
 
 
 def print_1():
-    pass
+    print()
